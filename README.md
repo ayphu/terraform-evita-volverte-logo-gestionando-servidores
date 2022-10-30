@@ -2,6 +2,8 @@
 
 Comunidad: Ingenia
 
+## Terraform Basic
+
 ```bash
 terraform init
 ```
@@ -22,4 +24,4 @@ terraform apply
 terraform destroy
 ```
 
-Cupon de $200 por 2 meses: https://m.do.co/c/ccd629430fc0
+Cupon de $200 por 2 meses: https://ayphu.com/digitalocean/

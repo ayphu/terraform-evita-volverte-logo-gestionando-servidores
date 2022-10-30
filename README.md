@@ -2,6 +2,12 @@
 
 Comunidad: Ingenia
 
+## Requisitos
+
+1) Cuenta de Digital Ocean
+
+2) Crear token de Digital Ocean
+
 ## Terraform Basic
 
 ```bash
